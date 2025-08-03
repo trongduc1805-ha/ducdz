@@ -1,0 +1,6 @@
+{
+  "name": "ducdz learn",
+  "description": "An interactive platform to learn languages from video courses. It allows users to add local course folders, watch videos with transcripts, generate vocabulary lists with AI, and practice with flashcards.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
